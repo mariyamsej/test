@@ -1,2 +1,2 @@
 print("hello")
-Idk what's happening'
+print("help")
